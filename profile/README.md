@@ -7,5 +7,5 @@ Our team brings together experienced developers and experts in education, curric
 ## Tech-stack 🛠️
 
 - **Frontend:** React (Vite)
-- **Backend:** Java + Spring Boot
+- **Backend:** C# (.NET)
 - **Mobile:** React-Native (Expo)
